@@ -1,7 +1,7 @@
-ViewModel and ViewModelFactory - Starter Code
-==================================
-
-Use as starter code for the ViewModel codelab.
+Using Architectural Components
+------------------------------
+- ViewModel and ViewModelProvider
+- LiveData and Observers
 
 Introduction
 ------------
